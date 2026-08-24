@@ -1,2 +1,17 @@
-data/raw/*
-!data/raw/.gitkeep
+# Sirovi podaci sa Kaggle-a
+data/raw/
+
+# Pripremljeni - izlaz iz 02_priprema_podataka.ipynb
+data/processed/
+
+# Python keš fajlovi (generišu se automatski pri importu data_utils.py)
+notebooks/__pycache__/
+**/__pycache__/
+*.pyc
+
+# Jupyter fajlovi (automatski, skriveni folderi koje Jupyter sam pravi)
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# modeli
+results/**/*.pt

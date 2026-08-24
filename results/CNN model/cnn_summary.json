@@ -1,0 +1,8 @@
+{
+  "model": "baseline_cnn_pytorch",
+  "test_accuracy": 0.9997211377579476,
+  "num_train_samples": 23336,
+  "num_val_samples": 4119,
+  "num_test_samples": 7172,
+  "epochs_ran": 12
+}
