@@ -1,0 +1,24 @@
+{
+  "model": "knn_over_triplet_embeddings",
+  "best_k": 1,
+  "metric": "euclidean",
+  "embedding_dim": 128,
+  "val_accuracies_by_k": {
+    "1": 1.0,
+    "3": 1.0,
+    "5": 1.0,
+    "7": 1.0,
+    "9": 1.0,
+    "11": 1.0,
+    "15": 1.0,
+    "21": 1.0,
+    "31": 1.0,
+    "45": 1.0,
+    "61": 1.0
+  },
+  "test_accuracy": 1.0,
+  "test_macro_f1": 1.0,
+  "num_train_samples": 23336,
+  "num_val_samples": 4119,
+  "num_test_samples": 7172
+}
