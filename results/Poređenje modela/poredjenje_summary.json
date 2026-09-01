@@ -1,0 +1,21 @@
+{
+  "cnn": {
+    "test_accuracy": 0.9997211377579476,
+    "macro_f1": 1.0,
+    "num_errors_test": 2,
+    "fn_candidates": {
+      "B": 1,
+      "E": 1
+    },
+    "fp_candidates": {
+      "K": 1,
+      "S": 1
+    }
+  },
+  "knn_over_triplet": {
+    "test_accuracy": 1.0,
+    "macro_f1": 1.0,
+    "num_errors_test": 0
+  },
+  "triplet_intra_inter_ratio": 0.17420463277929255
+}
