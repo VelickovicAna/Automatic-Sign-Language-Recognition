@@ -4,12 +4,12 @@
   "margin": 0.2,
   "m_per_class": 4,
   "triplet_batch_size": 96,
-  "final_train_loss": 0.06863762293424872,
-  "final_val_loss": 0.001664548580135618,
-  "intra_class_distance": 0.24751290678977966,
-  "inter_class_distance": 1.4208170175552368,
+  "final_train_loss": 0.06768041335567525,
+  "final_val_loss": 0.0005132928490638733,
+  "intra_class_distance": 0.22074218094348907,
+  "inter_class_distance": 1.4289580583572388,
   "num_train_samples": 23336,
   "num_val_samples": 4119,
   "num_test_samples": 7172,
-  "epochs_ran": 15
+  "epochs_ran": 18
 }

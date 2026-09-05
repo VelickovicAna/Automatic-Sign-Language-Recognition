@@ -2,7 +2,7 @@
 data/raw/
 
 # Pripremljeni - izlaz iz 02_priprema_podataka.ipynb
-data/processed/
+#data/processed/
 
 # Python keš fajlovi (generišu se automatski pri importu data_utils.py)
 notebooks/__pycache__/
@@ -14,4 +14,4 @@ notebooks/__pycache__/
 **/.ipynb_checkpoints/
 
 # modeli
-results/**/*.pt
+#results/**/*.pt
