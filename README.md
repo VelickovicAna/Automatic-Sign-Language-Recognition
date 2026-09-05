@@ -41,8 +41,6 @@ Notebook-ovi se pokreću redom (svaki naredni koristi izlaz prethodnog, sačuvan
 Oba modela postižu praktično identičnu i veoma visoku tačnost na test skupu (razlika je na trećoj/četvrtoj decimali); 
 detaljne metrike, matrice konfuzije i analiza grešaka po slovima nalaze se u `results/` kao i u `notebooks/06_poredjenje_modela.ipynb`.
 
-Istrenirani `.pt` modeli (`cnn_model.pt`, `embedding_net.pt`) nisu uključeni u repozitorijum zbog veličine. Preuzimanje: **link kad stavimo dokle**.
-
 ## Literatura i reference
 
 - Sign Language MNIST dataset: https://www.kaggle.com/datasets/datamunge/sign-language-mnist
