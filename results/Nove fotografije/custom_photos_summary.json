@@ -1,0 +1,31 @@
+{
+  "num_photos": 3,
+  "cnn_accuracy": 0.0,
+  "triplet_knn_accuracy": 0.3333333333333333,
+  "per_photo": [
+    {
+      "fajl": "E_1.jpeg",
+      "stvarno_slovo": "E",
+      "cnn_predikcija": "H",
+      "triplet_knn_predikcija": "T",
+      "cnn_tacno": false,
+      "triplet_knn_tacno": false
+    },
+    {
+      "fajl": "L_1.jpeg",
+      "stvarno_slovo": "L",
+      "cnn_predikcija": "T",
+      "triplet_knn_predikcija": "L",
+      "cnn_tacno": false,
+      "triplet_knn_tacno": true
+    },
+    {
+      "fajl": "V_1.jpeg",
+      "stvarno_slovo": "V",
+      "cnn_predikcija": "K",
+      "triplet_knn_predikcija": "U",
+      "cnn_tacno": false,
+      "triplet_knn_tacno": false
+    }
+  ]
+}
